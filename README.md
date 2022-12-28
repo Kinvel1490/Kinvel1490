@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kinvel1490
-- 👀 I’m interested in Web coding
+- 👀 I’m interested in Web
 - 🌱 I’m currently learning CMS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kinvel.1490@yandex.ru
